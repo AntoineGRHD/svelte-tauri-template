@@ -37,7 +37,6 @@ If you only want to figure how to quickly do it on your own project :\
 &emsp;&emsp;├── svelte/ (or any fitting name, but change accordingly in tauri.conf.json)\
 &emsp;&emsp;│&emsp;&emsp;├── node_modules\
 &emsp;&emsp;│&emsp;&emsp;├── src\
-&emsp;&emsp;│&emsp;&emsp;├── src-tauri\
 &emsp;&emsp;│&emsp;&emsp;└── ...and so on\
 &emsp;&emsp;└── tauri/ (was tauri-src)\
 &emsp;&emsp;&emsp;&emsp;&emsp;├── src\
